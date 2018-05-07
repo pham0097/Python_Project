@@ -1,0 +1,1 @@
+This program created by Phuong Pham to write a file through multithreading. This program is created for course CST833.
